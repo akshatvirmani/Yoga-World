@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Installs all the necessary dependencies.
+Installs all modules that are listed on package. json file and their dependencies.
 
 ### `npm start`
 
